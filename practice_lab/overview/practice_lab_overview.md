@@ -2,7 +2,7 @@
 
 The Cisco CCNA Lab is based on the simplest topology needed to achieve the objectives of the exam blueprint.
 
-![lab topology](practice_lab/overview/lab_topology.jpeg)
+![lab topology](/lab_topology.jpeg)
 
 The full equipment list is detailed below:
 ### Site 1 (HQ, 200 users)
